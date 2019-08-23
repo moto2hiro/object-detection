@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>000001761.jpg</filename>
+	<path>C:\Users\Motohiro\Downloads\trash_images\test\000001761.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>412</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>115</ymin>
+			<xmax>246</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>
